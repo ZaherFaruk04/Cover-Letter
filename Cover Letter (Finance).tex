@@ -1,28 +1,75 @@
-\documentclass[a4paper,11pt]{letter}
-\usepackage[margin=1in]{geometry}
-\usepackage{lmodern}
-\usepackage{parskip}
-\usepackage{hyperref}
+\documentclass[10pt, a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{geometry}
+\usepackage{url}
+\usepackage{fancyhdr}
 
-\signature{Zaher Faruk}
-\date{\today}
+% Set document margins
+\geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=25mm,
+ right=25mm,
+ top=25mm,
+ bottom=25mm,
+ }
+
+% Remove page numbers
+\pagestyle{empty}
+
+% Define custom commands for personal info
+\newcommand{\myname}{Zaher Faruk}
+\newcommand{\myphone}{0755304043}
+\newcommand{\myemail}{zaherfaruk04@gmail.com}
+\newcommand{\mylinkedin}{\url{linkedin.com/in/zaher-faruk/}}
 
 \begin{document}
 
-\begin{letter}{Hiring Team\\Ocorian}
+% --- Sender Information ---
+\begin{flushright}
+\myname \\
+\myphone\ | \myemail \\
+\mylinkedin \\
+\today
+\end{flushright}
 
-\opening{Dear Hiring Team,}
+% --- Recipient Information (Placeholder) ---
+\vspace{1em}
+\noindent
+Hiring Team \\
+Obsidian Security \\
+ \\
+United Kingdom
 
-I'm writing to express my interest in Ocorian’s Graduate Programme. As a final-year physics student with hands-on experience in computational modelling and technical problem-solving, I’m excited by the opportunity to apply my skills in a financial services environment.
+\vspace{1em}
+\noindent
+Dear Obsidian Security Hiring Team,
 
-During my degree, I’ve worked extensively with Python, MATLAB and C++ - from simulating nonlinear dynamics to developing quantum algorithms for benchmarking cloud-based quantum platforms using QUBO solvers. I also led a drone engineering project in my second year - integrating embedded systems and hardware, while managing project coordination and system design.
+\vspace{1em}
+I am writing to express my strong interest in the Graduate Software Engineer position. As a recent Physics graduate, I have developed a solid foundation in complex problem-solving and possess practical experience with the programming languages and systems relevant to this role. I am motivated by the prospect of building real-world security technology.
 
-Alongside technical work, I’ve developed strong documentation and communication skills, and I’m confident using Excel for data analysis - including PivotTables and VLOOKUPs. I enjoy tackling complex challenges and am motivated by Ocorian’s focus on scale, agility and collaboration.
+The opportunity to explore multiple areas of software engineering including data engineering, system design, and security engineering perfectly aligns with my commitment to versatile skill development. My background makes me an ideal fit for a role that values both analytical depth and technical curiosity.
 
-Thank you for considering my application - I’d welcome the opportunity to contribute and grow with your team.
+\vspace{0.5em}
+\noindent
+\textbf{Relevant Experience and Skills:}
+\begin{itemize}
+    \item \textbf{Programming and Data:} My Lennard-Jones Potential Plotting project utilised Python, NumPy, and Pandas for mathematical modeling, data processing, and visualization. These are directly applicable skills for developing data pipelines and analytics systems.
+    \item \textbf{System Development:} My drone project involved developing real-time control algorithms in C++ for the Arduino platform, demonstrating my ability to handle system-level logic, debugging, and hardware integration.
+    \item \textbf{Cloud and Modern Tech:} I have gained hands-on familiarity with cloud environments through my quantum computing project, which involves platforms like Microsoft Azure and IBM Quantum, showing my adaptability to new and complex technologies.
+    \item \textbf{Analytical Problem-Solving:} My Physics degree and projects, such as the Chaotic System Simulation using MATLAB's ODE solver, confirm my rigorous analytical approach, a key trait for effective software and security engineering.
+\end{itemize}
 
-\closing{Kind regards,}
+\vspace{0.5em}
+I am keen to join a collaborative team that supports continuous learning and contributes to a critical SaaS security platform. I am confident in my eagerness to learn and my ability to contribute meaningfully to your engineering goals.
 
-\end{letter}
+\vspace{1em}
+Thank you for considering my application. I look forward to the possibility of discussing this exciting opportunity further.
+
+\vspace{1em}
+\noindent
+Sincerely, \\
+Zaher Faruk
 
 \end{document}
