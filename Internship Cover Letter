@@ -1,0 +1,35 @@
+\documentclass[11pt]{article}
+\usepackage[a4paper,margin=1in]{geometry}
+
+\begin{document}
+
+\noindent Zaher Faruk \\
+Manchester, United Kingdom \\
+\texttt{zaherfaruk04@gmail.com} \\
+\texttt{07553064043} \\[6pt]
+
+\noindent \today \\[12pt]
+
+\noindent Hiring Team \\
+Carter Jonas \\[12pt]
+
+\noindent Dear Hiring Team,
+
+\medskip
+
+I am writing to apply for the Carter Jonas Summer Internship 2026. I am currently in my penultimate year studying BSc (Hons) Physics at the University of Salford, and I am keen to gain practical experience within the property sector. Although my degree is not directly property focused, my academic and project work have developed strong analytical, technical and problem solving skills that I am eager to apply in a commercial environment.
+
+During my studies I have worked on a range of engineering and modelling projects, including designing and programming a functional drone using C++, Arduino and Fusion 360. This involved precise CAD modelling, hardware assembly and iterative troubleshooting, which strengthened my attention to detail, adaptability and ability to work methodically within a team. I have also completed numerical modelling projects in MATLAB and Python, where I analysed complex systems, processed data and presented findings clearly. These experiences have made me comfortable learning new concepts quickly and applying structured thinking to real world challenges.
+
+Alongside my technical work, I have developed strong communication and organisational skills through previous roles in customer facing and technical support environments. I enjoy working collaboratively, taking initiative and contributing to shared goals, which I understand are essential qualities at Carter Jonas. I am particularly drawn to this internship because it offers the opportunity to work alongside experienced professionals, take part in site visits and client meetings, and gain exposure to the commercial and strategic aspects of property.
+
+I am enthusiastic about exploring the industry, building my professional network and contributing positively to whichever team I join. The opportunity to be considered for a future graduate role is especially motivating, as I am keen to develop a long term career in a sector that values analytical thinking and practical problem solving.
+
+Thank you for considering my application. I would welcome the opportunity to discuss how my skills and curiosity can contribute to Carter Jonas this summer.
+
+\medskip
+
+\noindent Kind regards, \\
+\noindent \textbf{Zaher Faruk}
+
+\end{document}
