@@ -1,0 +1,51 @@
+\documentclass[a4paper,11pt]{article}
+
+\usepackage{geometry}
+\geometry{margin=1in}
+\usepackage{setspace}
+\setstretch{1.15}
+
+\begin{document}
+
+\begin{flushright}
+Zaher Faruk \\
+Manchester and Salford, UK \\
+07553 064043 \\
+zaherfaruk04@gmail.com \\
+linkedin.com/in/zaher-faruk/ \\
+\end{flushright}
+
+\vspace{1cm}
+
+\begin{flushleft}
+Frazer-Nash Consultancy \\
+Digital Stream Recruitment Team \\
+\end{flushleft}
+
+\vspace{0.5cm}
+
+\textbf{Re: Data Science and Software Engineering Summer Internship}
+
+\vspace{0.5cm}
+
+Dear Hiring Team,
+
+I am writing to apply for the Data Science and Software Engineering Summer Internship at Frazer-Nash Consultancy. I am currently in my penultimate year studying BSc (Hons) Physics at the University of Salford, and I am keen to develop my technical and analytical skills within a consultancy environment that values curiosity, innovation and real-world impact.
+
+My academic and project experience has given me a strong foundation in programming, modelling and data analysis. Through my drone engineering project, I designed and programmed a flight control system in C++ using Arduino, built and tested electronic subsystems, and created custom components in Fusion 360. This project strengthened my ability to approach open-ended technical challenges from first principles, which aligns closely with the creative and problem solving qualities you look for.
+
+My work in quantum computing, using IBM Quantum, PennyLane and Azure Quantum, has developed my understanding of emerging technologies and complex systems. In addition, my MATLAB simulation of chaotic systems and my Python modelling of the Lennard Jones potential have strengthened my numerical methods, data processing and scientific programming skills. I enjoy exploring how theoretical ideas can be translated into practical solutions, which is central to the consultancy work described in your Digital stream.
+
+I am particularly drawn to Frazer-Nash because of the variety of projects, the multidisciplinary teams and the opportunity to contribute to meaningful work across defence, energy, transport and government. I work well in collaborative environments and adapt quickly to new tools and problem spaces. My previous experience as a computer technician also taught me the importance of clear communication, structured troubleshooting and reliability.
+
+Outside my studies, my training in Kyokushin Karate has helped me develop discipline, resilience and the ability to remain composed under pressure. These qualities support my ability to manage competing demands effectively, which I understand is essential when working across multiple projects at Frazer-Nash.
+
+I would welcome the opportunity to contribute to your Digital stream this summer and to learn from the experts within your organisation. Thank you for considering my application. I look forward to the possibility of discussing my suitability further.
+
+\vspace{0.7cm}
+
+Yours sincerely, \\
+\vspace{0.2cm}
+Zaher Faruk
+
+\end{document}
